@@ -1,0 +1,27 @@
+.logo-image{
+    height: 50px;
+    width: 130px;
+}
+
+
+.heading-color{
+    color: rgb(216, 6, 6);
+}
+
+
+
+
+
+
+.contact-section{
+    background-image: url(/Taste9/images/contact2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.social-media-link{
+    font-size: 18px;
+    padding: 4px;
+}
+
